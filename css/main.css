@@ -116,6 +116,9 @@ html, body {
     max-width: 100%;
 }
 
+/* ==========================================================================
+Custom submission form styling
+========================================================================== */
 /* Submission form for news section */
 .email-label {
   font-family: Arial, sans-serif;
@@ -164,12 +167,12 @@ html, body {
   margin-bottom: 0.2em;
 }
 
-/* make text full-width */
+/* /* make text full-width */
 .newsletter-form input,
 .newsletter-form textarea {
-  width: 100%;
-  box-sizing: border-box;
-}
+/*   width: 100%;
+  box-sizing: border-box; */
+} */
 
 /* links --------------------------------*/
 
