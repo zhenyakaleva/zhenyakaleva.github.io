@@ -4,10 +4,6 @@
      alt="janicemasonsteeves.com homepage banner photo"
      style="width: 100%; float: left; margin: 0 auto;" />
 
-The official website of Canadian artist and educator Janice Mason Steeves. Janice is represented by galleries in Canada and the U.S., with work in public, corporate, and private collections in Canada and internationally. As well as an active one-on-one Art Mentoring program, Janice teaches painting workshops in Canada, the U.S., and Europe. She has also been awarded artist residencies in Spain, Ireland, Sweden, and Iceland.
-
-For more information see [janicemasonsteeves.com](http://janicemasonsteeves.com) and [workshopsinwildplaces.com](http://workshopsinwildplaces.com).
-
 ## **Layout and Frameworks**
 
 The site uses Bootstrap 3.3.7, flexbox, and functional css. The structure was built to emulate a SPA/Front-end framework but using bootstrap modals, set to 100% height and width, to act effectively as separate "pages". This keeps the site relatively lightweight and fast loading, without the need to actually navigate to different urls/make additional http requests. The drawback is in the additional markup required for the modals which makes the page fairly long. Effort has been made to comment sections clearly for ease of navigation.
