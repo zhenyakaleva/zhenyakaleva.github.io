@@ -116,6 +116,14 @@ html, body {
     max-width: 100%;
 }
 
+.email-label {
+  font-family: Arial, sans-serif;
+  font-style: italic;
+  color: #004080; /* deep blue example */
+  display: inline-block;
+  margin-right: 10px;
+}
+
 /* links --------------------------------*/
 
 a,
