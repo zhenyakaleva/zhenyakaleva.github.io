@@ -119,7 +119,8 @@ html, body {
 .email-label {
   font-family: Arial, sans-serif;
   font-style: italic;
-  color: #004080; /* deep blue example */
+  color: #00FF00; /* bright green */
+  font-size: 18px; /* increase font size */
   display: inline-block;
   margin-right: 10px;
 }
