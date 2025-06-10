@@ -1,8 +1,4 @@
-# **Janice Mason Steeves Official Website**
-
-<img src="img/jms-browser-social.png"
-     alt="janicemasonsteeves.com homepage banner photo"
-     style="width: 100%; float: left; margin: 0 auto;" />
+# **Zhenya Kaleva Steeves Official Website**
 
 ## **Layout and Frameworks**
 
